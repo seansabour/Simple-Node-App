@@ -5,7 +5,7 @@
 3. Provide a detailed design of how you would design a CI pipeline for when you check in code? (Whiteboard)
 
 
-# DevOps Interview Coding
+# Docker knowledge
 1. Clone the repo to your local laptop
    1. Take some time to look at server.js to understand what this application is doing
 2. Create a Docker image with the following requirements:
