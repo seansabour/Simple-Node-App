@@ -2,7 +2,7 @@
 1. What is a hypervisor?
 2. How would you go about installing a new package on a linux machine (assume we are using CentOS)? 
    1. What if that repo is not configured on that machine, what file would you need to create?
-3. Please write a simple CI pipeline for when I check in code to a repo
+3. Provide a detailed design of how you would design a CI pipeline for when you check in code? (Whiteboard)
 
 
 # DevOps Interview Coding
