@@ -9,7 +9,7 @@
 1. Clone the repo to your local laptop
    1. Take some time to look at server.js to understand what this application is doing
 2. Create a Docker image with the following requirements:
-   1. Centos 7 Base image (You can use this image https://hub.docker.com/r/centos/nodejs-10-centos7)
+   1. Centos 7 Base image (You can use this image https://hub.docker.com/_/node/)
    2. Nodejs installed via package manager
    3. Expose ports 8080
 NOTE: If you are not familiar with node, all you need to do is copy package*.json over, run an npm install to install all dependencies, then copy the src code over, then to start the app run npm start.
