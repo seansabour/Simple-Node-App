@@ -10,7 +10,8 @@
    1. Take some time to look at server.js to understand what this application is doing
 2. Create a Docker image with the following requirements:
    1.You can use this base image https://hub.docker.com/_/node/
-   3. Expose ports 8080
+   2. Expose ports 8080
+   
 NOTE: If you are not familiar with node, all you need to do is copy package*.json over, run an npm install to install all dependencies, then copy the src code over, then to start the app run npm start.
 3. Create a container and visit your browser to show your work.
 
